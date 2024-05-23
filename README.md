@@ -1,1 +1,6 @@
-# Data-Analyst-Portfolio-
+# Business Analyst
+
+### Education
+Bcom
+
+### Projects
