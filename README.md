@@ -3,7 +3,7 @@
 #### Technical Skills: Python, SQL, RStudio, Excel, Data Analytics, Data Vizulaition (specifically Tableau & Power BI)
 
 ## Education
-- B.Com., Concentration in Business Analytics, COOP
+- B.Com., Concentration in Business Analytics, COOP | 
   Sprott School of Business, Carleton University (_January 2022 - Current_)
   
 ## Work Experience
